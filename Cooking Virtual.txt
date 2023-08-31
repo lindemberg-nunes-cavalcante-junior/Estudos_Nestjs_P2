@@ -1,0 +1,4 @@
+Criação e Configuração da Api e Banco de dados:
+
+1.Passo:
+ - Baixar as bibliotecas typeorm,pg e .dotenv
